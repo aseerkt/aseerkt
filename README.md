@@ -1,18 +1,10 @@
 ### Hi there 👋 I am Aseer.
 
-- FullStack Web-Developer
+- 😍 FullStack Web-Developer
+- 😁 I like building apps from scratch.
+- If you would like to collaborate, DM me. aseerkt#8724
 
-#### Stacks I wish to learn in 2021
-
-- Vue, NuxtJS
-- Angular
-- Docker
-- Laravel
-- React Native, Flutter, Kotlin, Android Studio
-- Payment Services: Stripe, PayPal
-- Firebase
-
-#### Stacks I am familiar with:
+#### My favourite stacks 😋
 
 - TypeScript
 - React, NextJS
