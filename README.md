@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Aseer.
 
-- 😍 FullStack Web-Developer
+- 🤓 FullStack Web-Developer
 - 😁 I like building apps from scratch.
-- If you would like to collaborate, DM me. aseerkt#8724
+- 😜 If you would like to collaborate, DM me. aseerkt#8724
 
-#### My favourite stacks 😋
+#### My favourite stacks 😍
 
 - TypeScript
 - React, NextJS
