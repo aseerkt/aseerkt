@@ -20,17 +20,18 @@
 
 - :sunglasses: FullStack Web-Developer
 - :grin: I like building apps from scratch.
+- :: I like having full control over the app that I am building.
 - :stuck_out_tongue_winking_eye: If you would like to collaborate, DM me. aseerkt#8724
 
-[![Twitter: aseerkta](https://img.shields.io/twitter/follow/aseerkta?style=social)](https://twitter.com/aseerkt)
+[![Twitter: aseerkta](https://img.shields.io/twitter/follow/aseerkta?style=social)](https://twitter.com/aseerkta)
 [![Linkedin: aseerkt](https://img.shields.io/badge/-aseerkt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aseerkt/)](https://www.linkedin.com/in/aseerkt/)
 [![GitHub aseerkt](https://img.shields.io/github/followers/aseerkt?label=follow&style=social)](https://github.com/aseerkt)
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
 <a href="https://github.com/aseerkt">
