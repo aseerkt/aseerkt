@@ -19,7 +19,7 @@
 <br/>
 
 [![Twitter: aseerkta](https://img.shields.io/twitter/follow/aseerkta?style=social)](https://twitter.com/aseerkt)
-[![Linkedin: aseerkt](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aseerkt/)](https://www.linkedin.com/in/aseerkt/)
+[![Linkedin: aseerkt](https://img.shields.io/badge/-aseerkt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aseerkt/)](https://www.linkedin.com/in/aseerkt/)
 [![GitHub aseerkt](https://img.shields.io/github/followers/aseerkt?label=follow&style=social)](https://github.com/aseerkt)
 
 - :sunglasses: FullStack Web-Developer
