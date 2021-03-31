@@ -20,7 +20,7 @@
 
 - :sunglasses: FullStack Web-Developer
 - :grin: I like building apps from scratch.
-- :: I like having full control over the app that I am building.
+- 🙂 I like having full control over the app that I am building.
 - :stuck_out_tongue_winking_eye: If you would like to collaborate, DM me. aseerkt#8724
 
 [![Twitter: aseerkta](https://img.shields.io/twitter/follow/aseerkta?style=social)](https://twitter.com/aseerkta)
@@ -38,7 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseerkt&theme=light&hide_langs_below=1" />
 </a>
 
-#### My favourite stacks :heart_eyes:
+#### Stacks I am familiar with :heart_eyes:
 
 - TypeScript
 - React, NextJS
