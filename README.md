@@ -20,7 +20,6 @@
 
 - :sunglasses: FullStack Web-Developer
 - :grin: I like building apps from scratch.
-- 🙂 I like having full control over the app that I am building.
 - :stuck_out_tongue_winking_eye: If you would like to collaborate, DM me.
 
 [![Twitter: aseerkta](https://img.shields.io/twitter/follow/aseerkta?style=social)](https://twitter.com/aseerkta)
