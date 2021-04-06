@@ -50,6 +50,6 @@
 </a>
 
 <a href="https://github.com/aseerkt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseerkt&theme=light&hide_langs_below=1" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseerkt&theme=light&hide_langs_below=1" />
 </a>
 
