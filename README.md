@@ -57,17 +57,6 @@
 
 </p>
 
-
-#### Stacks I am familiar with :heart_eyes:
-
-- TypeScript
-- React, NextJS
-- Bootstrap, Tailwind-CSS, Material-UI, Semantic-UI, Chakra-UI
-- GraphQL, Express
-- TypeORM, Mongoose, Sequelize
-- Apollo, URQL
-- MongoDB, PostgreSQL
-
 <a href="https://github.com/aseerkt">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aseerkt&show_icons=true&theme=light&line_height=27" alt="Aseer's github stats"/>
 </a>
