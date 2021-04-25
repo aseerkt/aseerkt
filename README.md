@@ -18,10 +18,6 @@
 <br/>
 <br/>
 
-- :sunglasses: FullStack Web-Developer
-- :grin: I like building apps from scratch.
-- :stuck_out_tongue_winking_eye: If you would like to collaborate, DM me.
-
 [![Twitter: aseerkta](https://img.shields.io/twitter/follow/aseerkta?style=social)](https://twitter.com/aseerkta)
 [![Linkedin: aseerkt](https://img.shields.io/badge/-aseerkt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aseerkt/)](https://www.linkedin.com/in/aseerkt/)
 [![GitHub aseerkt](https://img.shields.io/github/followers/aseerkt?label=follow&style=social)](https://github.com/aseerkt)
