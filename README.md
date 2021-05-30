@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
 
-<h3 align="left">Follow me:</h3>
+<h3 align="left">Connect me:</h3>
 
 <a href="https://twitter.com/aseerkta">
   <img align="left" alt="Aseer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
