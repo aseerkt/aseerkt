@@ -2,6 +2,13 @@
 
 <h5 align="left">Full Stack JavaScript Developer</h3>
 
+- 📘 I am currently working on some cool side projects
+- 💬  Ask me about **React**, **Node.js**, **GraphQL**.
+- How to reach me:
+  - 📧 via mail [aseermiqdad@gmail.com](mailto:aseermiqdad@gmail.com)
+  - via discord **aseerkt#8724** or [DevHub](https://discord.gg/y58teWVzCE)
+- You can find my projects pinned below.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
 
 <h3 align="left">Connect me:</h3>
