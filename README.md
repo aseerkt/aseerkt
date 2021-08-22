@@ -1,47 +1,54 @@
-### Hi there 👋 I am Aseer.
 
-<h5 align="left">Full Stack JavaScript Developer</h3>
+### <h1 align="center">Hi there 👋 I am Aseer</h1>.
+  
+<h3 align="center">Full Stack JavaScript Developer</h3>
 
-- 📘 I am currently working on some cool side projects
-- 💬  Ask me about **React**, **Node.js**, **GraphQL**.
-- How to reach me:
-  - 📧 via mail [aseermiqdad@gmail.com](mailto:aseermiqdad@gmail.com)
-  - via discord **aseerkt#8724** or [DevHub](https://discord.gg/y58teWVzCE)
-- You can find my projects pinned below.
+<div align="center" max-width="400px">
 
+  <p>
+    📘 I am currently working on some cool side projects
+  </p>
+  <p>
+    💬  Ask me about <strong>React</strong>, <strong>Node.js</strong> <strong>GraphQL</strong>.
+  </p>
+  <p>
+    Connect me on discord <strong>aseerkt#8724</strong> or <a href="https://discord.gg/y58teWVzCE" target="_blank"><strong>DevHub</strong></a>
+  </p>
+  <p>
+    Email me on <a href="mailto:aseermiqdad@gmail.com">aseermiqdad@gmail.com</a>
+  </p>
+
+</div>
+  
 <hr />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
 
 <h3 align="center">Connect me:</h3>
 
-<center>
+<div align="center">
 
 <a href="https://twitter.com/aseerkta">
-  <img align="left" alt="Aseer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Aseer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/aseerkt">
-  <img align="left" alt="Aseer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Aseer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/aseerkt">
-  <img align="left" alt="Aseer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Aseer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/aseerkt">
-  <img align="left" alt="Aseer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Aseer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-  
-</center>
 
 <br/>
 <br/>
-
-<center>
 
 [![Twitter: aseerkta](https://img.shields.io/twitter/follow/aseerkta?style=social)](https://twitter.com/aseerkta)
 [![Linkedin: aseerkt](https://img.shields.io/badge/-aseerkt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aseerkt/)](https://www.linkedin.com/in/aseerkt/)
 [![GitHub aseerkt](https://img.shields.io/github/followers/aseerkt?label=follow&style=social)](https://github.com/aseerkt)
 
-</center>
+</div>
 
 <h3 align="center">Languages & Tools:</h3>
 
@@ -68,7 +75,8 @@
 
 </p>
 
-<a href="https://github.com/aseerkt">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aseerkt&show_icons=true&theme=light&line_height=27" alt="Aseer's github stats"/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/aseerkt">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aseerkt&show_icons=true&theme=light&line_height=27" alt="Aseer's github stats"/>
+  </a>
+</div>
