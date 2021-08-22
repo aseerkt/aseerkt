@@ -9,9 +9,13 @@
   - via discord **aseerkt#8724** or [DevHub](https://discord.gg/y58teWVzCE)
 - You can find my projects pinned below.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
+<hr />
 
-<h3 align="left">Connect me:</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
+
+<h3 align="center">Connect me:</h3>
+
+<center>
 
 <a href="https://twitter.com/aseerkta">
   <img align="left" alt="Aseer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,16 +29,21 @@
 <a href="https://instagram.com/aseerkt">
   <img align="left" alt="Aseer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+  
+</center>
 
 <br/>
 <br/>
+
+<center>
 
 [![Twitter: aseerkta](https://img.shields.io/twitter/follow/aseerkta?style=social)](https://twitter.com/aseerkta)
 [![Linkedin: aseerkt](https://img.shields.io/badge/-aseerkt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aseerkt/)](https://www.linkedin.com/in/aseerkt/)
 [![GitHub aseerkt](https://img.shields.io/github/followers/aseerkt?label=follow&style=social)](https://github.com/aseerkt)
 
+</center>
 
-<h3 align="left">Languages & Tools:</h3>
+<h3 align="center">Languages & Tools:</h3>
 
 <p align="center">
 
