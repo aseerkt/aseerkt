@@ -74,9 +74,3 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 
 </p>
-
-<div align="center">
-  <a href="https://github.com/aseerkt">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aseerkt&show_icons=true&theme=light&line_height=27" alt="Aseer's github stats"/>
-  </a>
-</div>
