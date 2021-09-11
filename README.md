@@ -15,7 +15,7 @@
     Connect me on discord <strong>aseerkt#8724</strong> or <a href="https://discord.gg/y58teWVzCE" target="_blank"><strong>DevHub</strong></a>
   </p>
   <p>
-    Email me on <a href="mailto:aseermiqdad@gmail.com">aseermiqdad@gmail.com</a>
+    Email me at <a href="mailto:aseermiqdad@gmail.com">aseermiqdad@gmail.com</a>
   </p>
 
 </div>
