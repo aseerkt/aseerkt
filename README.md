@@ -1,26 +1,5 @@
 
 ### <h1 align="center">Hi there 👋 I am Aseer</h1>
-  
-<h3 align="center">Full Stack JavaScript Developer</h3>
-
-<div align="center" max-width="400px">
-
-  <p>
-    📘 I am currently working on some cool side projects
-  </p>
-  <p>
-    💬  Ask me about <strong>React</strong>, <strong>Node.js</strong> <strong>GraphQL</strong>.
-  </p>
-  <p>
-    Connect me on discord <strong>aseerkt#8724</strong> or <a href="https://discord.gg/y58teWVzCE" target="_blank"><strong>DevHub</strong></a>
-  </p>
-  <p>
-    Email me at <a href="mailto:aseermiqdad@gmail.com">aseermiqdad@gmail.com</a>
-  </p>
-
-</div>
-  
-<hr />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
 
