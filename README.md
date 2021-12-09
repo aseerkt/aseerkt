@@ -30,7 +30,7 @@
 </div>
 
 [![Aseer's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseerkt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseerkt&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseerkt&hide=php&lang_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">Languages & Tools:</h3>
