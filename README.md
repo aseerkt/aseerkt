@@ -1,23 +1,23 @@
 
-### <h1 align="center">Hi there 👋 I am Aseer</h1>
+### <h1>Hi there 👋 I am Aseer</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
 
-<h3 align="center">Connect me:</h3>
+<h3>Connect me:</h3>
 
-<div align="center">
+<div>
 
 <a href="https://twitter.com/aseerkta">
-  <img align="center" alt="Aseer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Aseer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/aseerkt">
-  <img align="center" alt="Aseer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Aseer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/aseerkt">
-  <img align="center" alt="Aseer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img alt="Aseer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/aseerkt">
-  <img align="center" alt="Aseer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Aseer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
@@ -33,9 +33,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseerkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="center">Languages & Tools:</h3>
+<h3>Languages & Tools:</h3>
 
-<p align="center">
+<p>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
