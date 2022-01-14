@@ -29,10 +29,6 @@
 
 </div>
 
-[![Aseer's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseerkt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseerkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3>Languages & Tools:</h3>
 
 <p>
