@@ -1,7 +1,7 @@
 
 ![Profile banner](/profile-banner.png)
 
-![](https://komarev.com/ghpvc/?username=aseerkt?color=brightgreen)
+![](https://komarev.com/ghpvc/?username=aseerkt&color=brightgreen)
 
 <h3>Connect me:</h3>
 
