@@ -1,7 +1,7 @@
 
 ![Profile banner](/profile-banner.png)
 
-<p> <img src="https://komarev.com/ghpvc/?username=aseerkt&label=Profile Views&color=blue&style=plastic" alt="aseerkt" /> </p>
+<p> ![Profile Views](https://komarev.com/ghpvc/?username=aseerkt?color=brightgreen)</p>
 
 <h3>Connect me:</h3>
 
