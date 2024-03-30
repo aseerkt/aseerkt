@@ -1,6 +1,8 @@
 
 ![Profile banner](/profile-banner.png)
 
+[![Aseer's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseerkt)](https://github.com/aseerkt)
+
 ![](https://komarev.com/ghpvc/?username=aseerkt&color=brightgreen)
 
 <h3>Connect me:</h3>
